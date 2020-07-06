@@ -1,5 +1,5 @@
 # Toontown Offline Issue Tracker
-Welcome to the official issue tracker for [Toontown Offline](https://ttoffline.com/). This is the one-stop-shop for reporting any issues you experience while playing the game. If you're simply curious about which bugs are known
+Welcome to the official issue tracker for [Toontown Offline](https://ttoffline.com/). This is the one-stop-shop for reporting any issues you experience while playing the game. If you're simply curious about which bugs are known or fixed, have a look at the issues tab and find out for yourself!
 
 # How do I report an issue?
 Simply head over to the [issues](https://github.com/Toontown-Offline-Issue-Tracker/issues/issues) tab of this repository to submit a new issue.
